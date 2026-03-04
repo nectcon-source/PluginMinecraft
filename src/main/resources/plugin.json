@@ -1,0 +1,9 @@
+{
+  "name": "PluginMinecraft",
+  "main": "fun.cactus.PluginMinecraft.PluginMinecraft",
+  "version": "1.0.0",
+  "apiVersion": "1.0",
+  "authors": ["YourName"],
+  "depend": [],
+  "softDepend": []
+}
